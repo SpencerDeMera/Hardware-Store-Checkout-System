@@ -4,6 +4,8 @@ Hardware store cash register checkout system meant to mimic that of Lowes Home I
 Author: Spencer C. DeMera\
 Author's email: Spencer.demera@csu.fullerton.edu
 
+<img src="checkout.png">
+
 ---
 Project meant as a theoretical exploration and recreation of various checkout inventory systems observed as being used by some stores such as Lowes. System mimics that of such stores in both functionality and physical appearance to a close degree (provided the limited knowledge of true system functionality of the real systems) and explores what it might look like if written in C/C++. Program makes use of various crucial programming concepts and functionality involving OOP and classes. System is terminal based and relies on menu navigation via numerical input from the command line.
  
